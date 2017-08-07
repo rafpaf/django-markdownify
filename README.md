@@ -54,7 +54,7 @@ Add app to installed apps in `settings.py`:
 ```
 
 ## Options
-There are some optinal settings you can add to your `settings.py`.
+There are some optional settings you can add to your `settings.py`.
 
 #### Whitelist tags
 Add whitelisted tags with `MARKDOWNIFY_WHITELIST_TAGS = []`  
